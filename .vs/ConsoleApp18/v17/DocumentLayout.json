@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\ConsoleApp18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3556D6A0-550A-4AFC-BDBE-6C8E230F1D4B}|Core\\Core.csproj|c:\\users\\asus\\source\\repos\\consoleapp18\\core\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3556D6A0-550A-4AFC-BDBE-6C8E230F1D4B}|Core\\Core.csproj|solutionrelative:core\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F5DBD9-7196-44B3-928F-E87E7E773F84}|ConsoleApp18\\ConsoleApp18.csproj|c:\\users\\asus\\source\\repos\\consoleapp18\\consoleapp18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F5DBD9-7196-44B3-928F-E87E7E773F84}|ConsoleApp18\\ConsoleApp18.csproj|solutionrelative:consoleapp18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3556D6A0-550A-4AFC-BDBE-6C8E230F1D4B}|Core\\Core.csproj|c:\\users\\asus\\source\\repos\\consoleapp18\\core\\helpers\\exceptions\\notavialableexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3556D6A0-550A-4AFC-BDBE-6C8E230F1D4B}|Core\\Core.csproj|solutionrelative:core\\helpers\\exceptions\\notavialableexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3556D6A0-550A-4AFC-BDBE-6C8E230F1D4B}|Core\\Core.csproj|c:\\users\\asus\\source\\repos\\consoleapp18\\core\\data\\appcontextclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3556D6A0-550A-4AFC-BDBE-6C8E230F1D4B}|Core\\Core.csproj|solutionrelative:core\\data\\appcontextclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3556D6A0-550A-4AFC-BDBE-6C8E230F1D4B}|Core\\Core.csproj|c:\\users\\asus\\source\\repos\\consoleapp18\\core\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3556D6A0-550A-4AFC-BDBE-6C8E230F1D4B}|Core\\Core.csproj|solutionrelative:core\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3556D6A0-550A-4AFC-BDBE-6C8E230F1D4B}|Core\\Core.csproj|c:\\users\\asus\\source\\repos\\consoleapp18\\core\\helpers\\exceptions\\nullreferanceexcepption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3556D6A0-550A-4AFC-BDBE-6C8E230F1D4B}|Core\\Core.csproj|solutionrelative:core\\helpers\\exceptions\\nullreferanceexcepption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NullReferanceExcepption.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ConsoleApp18\\Core\\Helpers\\Exceptions\\NullReferanceExcepption.cs",
+              "RelativeDocumentMoniker": "Core\\Helpers\\Exceptions\\NullReferanceExcepption.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ConsoleApp18\\Core\\Helpers\\Exceptions\\NullReferanceExcepption.cs",
+              "RelativeToolTip": "Core\\Helpers\\Exceptions\\NullReferanceExcepption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:35:57.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ConsoleApp18\\Core\\Models\\Hotel.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Hotel.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ConsoleApp18\\Core\\Models\\Hotel.cs",
+              "RelativeToolTip": "Core\\Models\\Hotel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T01:48:21.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ConsoleApp18\\Core\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Room.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ConsoleApp18\\Core\\Models\\Room.cs",
+              "RelativeToolTip": "Core\\Models\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T01:48:49.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppContextClass.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ConsoleApp18\\Core\\Data\\AppContextClass.cs",
+              "RelativeDocumentMoniker": "Core\\Data\\AppContextClass.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ConsoleApp18\\Core\\Data\\AppContextClass.cs",
+              "RelativeToolTip": "Core\\Data\\AppContextClass.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T01:46:37.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotAvialableException.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ConsoleApp18\\Core\\Helpers\\Exceptions\\NotAvialableException.cs",
+              "RelativeDocumentMoniker": "Core\\Helpers\\Exceptions\\NotAvialableException.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ConsoleApp18\\Core\\Helpers\\Exceptions\\NotAvialableException.cs",
+              "RelativeToolTip": "Core\\Helpers\\Exceptions\\NotAvialableException.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T01:43:49.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ConsoleApp18\\ConsoleApp18\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp18\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ConsoleApp18\\ConsoleApp18\\Program.cs",
+              "RelativeToolTip": "ConsoleApp18\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T01:40:58.364Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
